@@ -1,0 +1,14 @@
+{
+  "name": "script-package-version",
+  "version": "1.0.1",
+  "description": "Prints the version of the current package",
+  "main": "index.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduard Castellano",
+  "license": "ISC",
+  "bin": {
+    "script-package-version": "./index.sh"
+  }
+}
