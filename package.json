@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Eduard Castellano",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/educastellano/script-package-version.git"
+  },
   "license": "ISC",
   "bin": {
     "script-package-version": "./index.sh"
