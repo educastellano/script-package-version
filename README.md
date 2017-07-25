@@ -1,6 +1,6 @@
 # script-package-version
 
-Prints the version of the current package
+Get the version of the current package.
 
 # Install
 
